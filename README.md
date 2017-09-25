@@ -5,7 +5,7 @@ go into the repository with terminal terminal and use the format:
 
 **java editor.Editor your_file_name_here**
 
-##Features supported
+## Features supported
 * Clicking with the mouse will allow you to move the cursor within a body of characters.
 * Writing the file is supported with the command **CTRL + S**
 * A scroll bar is implemented on the right hand side of the application.
